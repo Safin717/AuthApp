@@ -30,7 +30,7 @@
         I already have an account <font color="#05AD68"><b>Login</b></font>
     </string>
 
-    <string name="home_title">Hello World!</string>
+    <string name="home_title">You are logged in!</string>
     <string name="home_sub_title">Welcome to home</string>
     <string name="btn_logout">LOGOUT</string>
 </resources>

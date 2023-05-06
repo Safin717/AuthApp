@@ -69,15 +69,14 @@
             style="@style/TextInputEditText"/>
     </com.google.android.material.textfield.TextInputLayout>
 
-    <TextView
+    <Button
         android:id="@+id/tv_forgot_password"
         style="@style/Sub_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:text="@string/login_forgot_pw"
-        android:textAlignment="textEnd"
-        android:textColor="@color/primary_color"
+        android:textColor="@color/white"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
